@@ -66,10 +66,10 @@ Full Stack Developer building **robust backend systems and responsive web applic
 
 ## 🛠️ Skills
 
-<p align="center">
-<table>
+<table width="100%">
 <tr>
-<td width="50%" align="center">
+
+<td width="50%" align="center" valign="top">
 
 <h3>💻 Programming Languages</h3>
 
@@ -78,7 +78,7 @@ Full Stack Developer building **robust backend systems and responsive web applic
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>⚙️ Frameworks & Libraries</h3>
 
@@ -90,7 +90,8 @@ Full Stack Developer building **robust backend systems and responsive web applic
 </tr>
 
 <tr>
-<td width="50%" align="center">
+
+<td width="50%" align="center" valign="top">
 
 <h3>🗄️ Databases</h3>
 
@@ -99,7 +100,7 @@ Full Stack Developer building **robust backend systems and responsive web applic
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>🧰 Tools & Platforms</h3>
 
@@ -107,9 +108,9 @@ Full Stack Developer building **robust backend systems and responsive web applic
 <br/><br/>
 
 </td>
+
 </tr>
 </table>
-</p>
 
 ---
 <!-- GITHUB STATS -->
