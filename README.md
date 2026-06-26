@@ -256,6 +256,4 @@ Open To:
   - Internships (SDE)
   - Backend Roles
   - Collaboration Projects
-🤝 Connect
-<p align="center"> <a href="mailto:sathwik12006@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-8A2BE2?style=for-the-badge&logo=gmail"/></a> <a href="https://www.linkedin.com/in/chandanapu-sathwik-20b54234a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-6A0DAD?style=for-the-badge&logo=linkedin"/></a> <a href="https://github.com/sathwik27-ai"><img src="https://img.shields.io/badge/GitHub-Portfolio-4B0082?style=for-the-badge&logo=github"/></a> </p>
-<p align="center"> <i>"Engineering scalable systems with performance, precision, and impact."</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=120&section=footer"/> </p> ```
+
