@@ -69,23 +69,20 @@ Full Stack Developer building **robust backend systems and responsive web applic
 <p align="center">
 <table>
 <tr>
+<td width="50%" align="center">
 
-<td width="50%" align="center" valign="top">
-
-### 💻 Languages
+<h3>💻 Programming Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,sql" />
-
 <br/><br/>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-### ⚙️ Frameworks
+<h3>⚙️ Frameworks & Libraries</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap" />
-
 <br/><br/>
 
 </td>
@@ -93,27 +90,23 @@ Full Stack Developer building **robust backend systems and responsive web applic
 </tr>
 
 <tr>
+<td width="50%" align="center">
 
-<td width="50%" align="center" valign="top">
-
-### 🗄️ Databases
+<h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
 <br/><br/>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-### 🧰 Tools
+<h3>🧰 Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=git,vscode" />
-
 <br/><br/>
 
 </td>
-
 </tr>
 </table>
 </p>
