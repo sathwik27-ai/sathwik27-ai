@@ -177,25 +177,25 @@ Developed a scalable health tracking system enhancing user engagement and consis
 ## 📜 Certifications
 
 ### 🧠 Programming & Development
-<img src="https://www.udemy.com/certificate/UC-1b1707c3-8fcb-4b4a-9533-26371734ce95/"/>
-<img src="https://unstop.com/certificate-preview/0c421e62-b839-4911-a883-479c83d9f295"/>
+
+* [Udemy Certificate](https://www.udemy.com/certificate/UC-1b1707c3-8fcb-4b4a-9533-26371734ce95/)
+* [Unstop Certificate](https://unstop.com/certificate-preview/0c421e62-b839-4911-a883-479c83d9f295)
 
 ### 💼 Industry Simulations
-<img src="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/HNpZwZcuYwona2d8Y_xhih9yFWsf6AYfngd_ot9tuuTqf8kArWzHW_1752847071189_completion_certificate.pdf"/>
-<img src="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_ot9tuuTqf8kArWzHW_1751700593232_completion_certificate.pdf"/>
 
----
+* [Forage Certificate 1](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/HNpZwZcuYwona2d8Y_xhih9yFWsf6AYfngd_ot9tuuTqf8kArWzHW_1752847071189_completion_certificate.pdf) - Accenture
+* [Forage Certificate 2](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_ot9tuuTqf8kArWzHW_1751700593232_completion_certificate.pdf) - Deloitte
+
 
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-1631%20Rating-FFA116?style=for-the-badge&logo=leetcode"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-1409%20(2⭐)-5B4638?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge"/></a>
+  <a href="https://leetcode.com/Sathwik-1234"><img src="https://img.shields.io/badge/LeetCode-1631%20Rating-FFA116?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://www.codechef.com/users/Sathwik_27_06"><img src="https://img.shields.io/badge/CodeChef-1409%20(2⭐)-5B4638?style=for-the-badge"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/sathwikq4kk"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge"/></a>
+  <a href="https://www.hackerrank.com/Sathwik_27_06"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge"/></a>
 </p>
 
----
 
 ## 📊 GitHub Analytics
 
