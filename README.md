@@ -16,8 +16,10 @@
 
 <!-- INTRO -->
 
-## 👋 Hi, I'm Sathwik 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" style="vertical-align: middle;"/>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" style="vertical-align: middle; margin-right: 10px;" />
+  Hi, I'm <strong>Chandanapu Sathwik</strong>
+</h1>
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
