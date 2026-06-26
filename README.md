@@ -23,8 +23,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Full Stack Developer building **robust backend systems and responsive web applications**.  
-Focused on designing efficient APIs, optimizing performance, and delivering seamless user experiences.
+Full Stack Developer building **robust backend systems and responsive web applications**.Focused on designing efficient APIs, optimizing performance, and delivering seamless user experiences.
 
 * 🧠 300+ DSA Problems Solved  
 * 📊 LeetCode: 1631 | CodeChef: 2⭐  
@@ -70,45 +69,56 @@ Focused on designing efficient APIs, optimizing performance, and delivering seam
 <p align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+
+<td width="50%" align="center" valign="top">
 
 ### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,sql" />
 
+<br/><br/>
+
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### ⚙️ Frameworks
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap" />
 
+<br/><br/>
+
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center">
+
+<td width="50%" align="center" valign="top">
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
+<br/><br/>
+
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,vscode" />
 
+<br/><br/>
+
 </td>
+
 </tr>
 </table>
 </p>
 
 ---
-
 <!-- GITHUB STATS -->
 
 ## 📊 GitHub Analytics
