@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=200&section=header&text=Chandanapu%20Sathwik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=230&section=header&text=Chandanapu%20Sathwik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Backend+Systems+Developer;Competitive+Programmer;Building+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Backend+Systems+Developer;Competitive+Programmer;Building+Scalable+Products" />
 </p>
 
 <p align="center">
@@ -26,166 +28,86 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=2"/>
+
 ## 🧠 About Me
 
 Full-Stack Engineer with a strong foundation in **software engineering and scalable system design**, currently pursuing B.Tech with a **9.63 CGPA**.
 
-I specialize in:
-- Building **production-grade web applications**
-- Designing **efficient backend systems**
-- Writing **optimized and clean code**
-- Solving complex problems using **Data Structures & Algorithms**
-
-I focus on delivering **high-performance, scalable, and reliable applications** with a strong product engineering mindset.
-
-**Open To:**
-- Software Engineering Internships  
-- Backend / Full Stack Development Roles  
-- Open Source Collaboration  
+* 🚀 Building **production-grade web applications**
+* ⚙️ Designing **efficient backend systems**
+* 🧠 Solving problems using **DSA (300+ solved)**
+* 📈 Focused on **performance, scalability, and clean architecture**
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=1"/>
 
 ## ⚙️ Tech Stack
 
 ### 🧩 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,r,js,sql"/>
 </p>
 
 ### 🎨 Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs"/>
 </p>
 
 ### 🛠 Backend & Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase"/>
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,vscode"/>
 </p>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=1"/>
+
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>AI-Driven Financial Literacy Engine</b></summary>
+### 🔥 AI-Driven Financial Literacy Engine
 
-Scalable finance platform delivering real-time insights.
+* ⚡ <2s latency system
+* 📊 50+ queries optimized
+* 🧠 Intelligent financial insights
 
-| Metric | Details |
-|------|--------|
-| Stack | Next.js 14, Prisma |
-| Scale | 50+ queries optimized |
-| Performance | <2s latency |
-| Security | API structured validation |
-| Impact | Identified 3 core differentiators |
-| Repository | GitHub |
+### 📊 Predictive Student Success Dashboard
 
-Engineered a system that delivers contextual financial insights with high efficiency and low latency.
+* 📈 90% prediction accuracy
+* 🔐 JWT secured system
+* ⚡ 40% efficiency improvement
 
-</details>
+### 🏋️ Adaptive Fitness Companion
 
-<details>
-<summary><b>Predictive Student Success Dashboard</b></summary>
-
-Data-driven academic monitoring system.
-
-| Metric | Details |
-|------|--------|
-| Stack | Next.js 15, TypeScript |
-| Scale | 100+ student profiles |
-| Performance | Optimized dashboards |
-| Security | JWT Authentication |
-| Impact | 40% data efficiency improvement |
-| Repository | GitHub |
-
-Built a secure dashboard to visualize academic performance metrics and improve data handling efficiency.
-
-</details>
-
-<details>
-<summary><b>Adaptive Fitness Companion</b></summary>
-
-Full-stack personalized health platform.
-
-| Metric | Details |
-|------|--------|
-| Stack | React 18, Node.js, MongoDB |
-| Scale | 250+ weekly users |
-| Security | Secure user data storage |
-| Impact | Improved user consistency |
-| Repository | GitHub |
-
-Developed a scalable health tracking system enhancing user engagement and consistency.
-
-</details>
+* 👥 250+ weekly users
+* 🔁 500+ reminders system
+* 📊 Behavioral adaptation logic
 
 ---
 
-## 💼 Experience
-
-### Volunteer — National Service Scheme (NSS)
-**March 2026 – Present**
-
-- Participated in community-driven initiatives  
-- Worked on social impact and awareness programs  
-
-**Skills:** Leadership, Teamwork  
-
----
-
-### Member — ISTE Student Chapter
-**2026 – Present**
-
-- Engaged in technical and professional development activities  
-- Collaborated on engineering initiatives  
-
-**Skills:** Communication, Networking  
-
----
-
-### Volunteer — VJDataQuesters
-**2026 – Present**
-
-- Contributed to technical initiatives  
-- Assisted in organizing sessions  
-
-**Skills:** Collaboration, Problem Solving  
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=1"/>
 
 ## 🏆 Achievements
 
-<p align="center">
-
-| Recognition | Details |
-|------------|--------|
-| Competitive Programming | 300+ DSA problems solved |
-| LeetCode Rating | 1631 |
-| CodeChef Rating | 1409 (2⭐) |
-| Global Rank | Below 6,000 (Smart Interviews) |
-| Hackathon | Top 5 Finalist - Webathon 24h |
-
-</p>
+* 🧠 300+ DSA Problems Solved
+* 📊 LeetCode Rating: 1631
+* 🍽 CodeChef: 1409 (2⭐)
+* 🌍 Global Rank < 6000 (Smart Interviews)
+* 🏆 Hackathon Finalist (Webathon 24h)
 
 ---
 
-## 📜 Certifications
-
-### 🧠 Programming & Development
-
-* [Udemy Certificate](https://www.udemy.com/certificate/UC-1b1707c3-8fcb-4b4a-9533-26371734ce95/)
-* [Unstop Certificate](https://unstop.com/certificate-preview/0c421e62-b839-4911-a883-479c83d9f295)
-
-### 💼 Industry Simulations
-
-* [Forage Certificate 1](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/HNpZwZcuYwona2d8Y_xhih9yFWsf6AYfngd_ot9tuuTqf8kArWzHW_1752847071189_completion_certificate.pdf) - Accenture
-* [Forage Certificate 2](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_ot9tuuTqf8kArWzHW_1751700593232_completion_certificate.pdf) - Deloitte
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=1"/>
 
 ## 💻 Coding Profiles
 
@@ -196,6 +118,20 @@ Developed a scalable health tracking system enhancing user engagement and consis
   <a href="https://www.hackerrank.com/Sathwik_27_06"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge"/></a>
 </p>
 
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=1"/>
+
+## 📜 Certifications
+
+* 🎓 Udemy Certification
+* 🧠 Unstop Certification
+* 💼 Accenture Virtual Experience
+* 💼 Deloitte Virtual Experience
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B0082,100:8A2BE2&height=1"/>
 
 ## 📊 GitHub Analytics
 
@@ -210,8 +146,7 @@ Developed a scalable health tracking system enhancing user engagement and consis
 
 ---
 
-
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwik27-ai&theme=tokyo-night"/>
@@ -231,21 +166,19 @@ Developed a scalable health tracking system enhancing user engagement and consis
 
 ```yaml
 Learning:
-  - Advanced DSA & System Design
-  - Scalable Backend Systems
+  - Advanced DSA
+  - System Design
 
 Building:
+  - Scalable Backend Systems
   - Full Stack Applications
-  - High-performance APIs
-  - Data-driven platforms
 
 Exploring:
-  - System Design
   - Cloud Technologies
-  - Open source contributions
+  - Open Source
 
 Open To:
-  - Internships (SDE)
+  - SDE Internships
   - Backend Roles
-  - Collaboration Projects
-
+  - Collaboration
+```
