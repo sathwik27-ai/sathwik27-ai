@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://images.openai.com/static-rsc-4/u846mvglRjKm0DBjKnz1eiFJCpjlvG28EtF1Zivs7AyNNB0qM6-93g7NBq_AmsghThQp0vKJuQ5P6dZYWpkMwC1faDaD3PNFioulD55_xKS6RmM-k-jirCfhNkc7PyuFQiPlvZA5HFLg0kxbjwzPcRuofk0-P0nEpVW9GAthodUGLhxa1DXkyti6cFyoYSkb?purpose=fullsize" width="320" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=26&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Focused;Competitive+Programmer;Building+Scalable+Systems"/>
 </p>
 
@@ -12,15 +16,17 @@
 
 <!-- INTRO -->
 
+## 👋 Hi, I'm Sathwik 
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" style="vertical-align: middle;"/>
+
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👋 Hi, I'm Sathwik
+Full Stack Developer building **robust backend systems and responsive web applications**.  
+Focused on designing efficient APIs, optimizing performance, and delivering seamless user experiences.
 
-Full Stack Developer focused on **scalable backend systems and clean architecture**.
-
-* 🧠 300+ DSA Problems Solved
-* 📊 LeetCode: 1631 | CodeChef: 2⭐
-* 🎯 Backend + System Design Focus
+* 🧠 300+ DSA Problems Solved  
+* 📊 LeetCode: 1631 | CodeChef: 2⭐  
+* ⚙️ Focused on Backend Development, APIs & Scalable Web Apps  
 
 <p>
   <img src="https://img.shields.io/badge/🌍_Hyderabad-1e1e2e?style=for-the-badge"/>
@@ -30,7 +36,7 @@ Full Stack Developer focused on **scalable backend systems and clean architectur
   <img src="https://img.shields.io/badge/🤝_Open_to_Internships-1e1e2e?style=for-the-badge"/>
 </p>
 
-<br clear="all"/>
+<br clear="right"/>
 
 ---
 
