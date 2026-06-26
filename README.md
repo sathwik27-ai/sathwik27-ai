@@ -116,7 +116,6 @@ Full-stack personalized health platform.
 |------|--------|
 | Stack | React 18, Node.js, MongoDB |
 | Scale | 250+ weekly users |
-| Performance | 500+ reminders/month |
 | Security | Secure user data storage |
 | Impact | Improved user consistency |
 | Repository | GitHub |
@@ -168,7 +167,7 @@ Developed a scalable health tracking system enhancing user engagement and consis
 | Competitive Programming | 300+ DSA problems solved |
 | LeetCode Rating | 1631 |
 | CodeChef Rating | 1409 (2⭐) |
-| Global Rank | 16,000 (Smart Interviews) |
+| Global Rank | Below 6,000 (Smart Interviews) |
 | Hackathon | Top 5 Finalist - Webathon 24h |
 
 </p>
@@ -211,13 +210,6 @@ Developed a scalable health tracking system enhancing user engagement and consis
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sathwik27-ai&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
