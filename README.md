@@ -140,6 +140,9 @@ Full Stack Developer building **robust backend systems and responsive web applic
   <a href="https://github.com/sathwik27-ai">
     <img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github"/>
   </a>
+  <a href = "https://sathwik27.vercel.app">
+    <img src ="https://img.shields.io/badge/Portfolio-3FB950?style=for-the-badge&logo=google-chrome"/>
+  </a>
 </p>
 
 ---
