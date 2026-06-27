@@ -123,11 +123,11 @@ Full Stack Developer building **robust backend systems and responsive web applic
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwik27-ai&theme=tokyo-night"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
 <img src="https://raw.githubusercontent.com/sathwik27-ai/sathwik27-ai/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+--->
 
 <!-- CONNECT -->
 
