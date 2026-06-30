@@ -120,7 +120,7 @@ Full Stack Developer building **robust backend systems and responsive web applic
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwik27-ai&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwik27-ai&theme=tokyo-night&hide_border=true&include_all_commits=true&include_private=true"/>
 </p>
 
 <!--<p align="center">
