@@ -149,6 +149,5 @@ Full Stack Developer building **robust backend systems and responsive web applic
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sathwik27-ai&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/followers/sathwik27-ai?style=for-the-badge&color=4F46E5"/>
 <img src="https://img.shields.io/github/stars/sathwik27-ai?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7"/>
 </p>
