@@ -52,9 +52,6 @@ Full Stack Developer building **robust backend systems and responsive web applic
   <a href="https://www.codechef.com/users/Sathwik_27_06">
     <img src="https://img.shields.io/badge/CodeChef-1409%20(2⭐)-5B4638?style=for-the-badge"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/sathwikq4kk">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge"/>
-  </a>
   <a href="https://www.hackerrank.com/Sathwik_27_06">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge"/>
   </a>
@@ -149,4 +146,9 @@ Full Stack Developer building **robust backend systems and responsive web applic
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4B0082,50:6A0DAD,100:8A2BE2&section=footer"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sathwik27-ai&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/sathwik27-ai?style=for-the-badge&color=4F46E5"/>
+<img src="https://img.shields.io/github/stars/sathwik27-ai?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7"/>
 </p>
