@@ -125,6 +125,42 @@ Full Stack Developer building **robust backend systems and responsive web applic
 </p>
 
 --->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!-- 🚀 ACHIEVEMENTS -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-3FB950?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏹_Quickdraw-238636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👯_Pair_Extraordinaire-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌊_YOLO-3FB950?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🏅 Achievement             | 💡 What It Shows                                   |
+| -------------------------- | -------------------------------------------------- |
+| **Pull Shark** 🦈          | Consistently contributing via merged pull requests |
+| **Quickdraw** 🏹           | Fast issue resolution and responsiveness           |
+| **Pair Extraordinaire** 👯 | Strong collaboration and teamwork in code          |
+| **YOLO** 🌊                | Confidence in shipping and decision-making         |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:8A2BE2,50:6A0DAD,100:4B0082"/>
+</p>
+
 
 <!-- CONNECT -->
 
