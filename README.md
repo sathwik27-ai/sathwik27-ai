@@ -46,6 +46,7 @@ Full Stack Developer building **robust backend systems and responsive web applic
 ## 💻 Coding Profiles
 
 <p align="center">
+  
   <a href="https://leetcode.com/Sathwik-1234">
     <img src="https://img.shields.io/badge/LeetCode-1631%20Rating-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
@@ -55,7 +56,9 @@ Full Stack Developer building **robust backend systems and responsive web applic
   <a href="https://codeforces.com/profile/sathwik_27_06">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
+  
 </p>
+
 ---
 
 <!-- SKILLS -->
