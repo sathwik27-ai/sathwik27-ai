@@ -27,7 +27,7 @@ Full Stack Developer building **robust backend systems and responsive web applic
 
 * 🧠 300+ DSA Problems Solved  
 * 📊 LeetCode: 1631 | CodeChef: 2⭐  
-* ⚙️ Focused on Backend Development, APIs & Scalable Web Apps  
+* ⚙️ Focused on Backend Development, APIs & Scalable Web Apps.  
 
 <p>
   <img src="https://img.shields.io/badge/🌍_Hyderabad-1e1e2e?style=for-the-badge"/>
