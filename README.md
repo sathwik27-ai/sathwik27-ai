@@ -25,7 +25,7 @@
 
 Full Stack Developer building **robust backend systems and responsive web applications**.Focused on designing efficient APIs, optimizing performance, and delivering seamless user experiences.
 
-* 🧠 300+ DSA Problems Solved  
+* 🧠 300+ DSA Problems Solved. 
 * 📊 LeetCode: 1631 | CodeChef: 2⭐  
 * ⚙️ Focused on Backend Development, APIs & Scalable Web Apps.  
 
