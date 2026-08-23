@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4B0082,50:6A0DAD,100:8A2BE2&text=Chandanapu%20Sathwik&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
 </p>
 
-
 <p align="center">
   <img src="https://images.openai.com/static-rsc-4/u846mvglRjKm0DBjKnz1eiFJCpjlvG28EtF1Zivs7AyNNB0qM6-93g7NBq_AmsghThQp0vKJuQ5P6dZYWpkMwC1faDaD3PNFioulD55_xKS6RmM-k-jirCfhNkc7PyuFQiPlvZA5HFLg0kxbjwzPcRuofk0-P0nEpVW9GAthodUGLhxa1DXkyti6cFyoYSkb?purpose=fullsize" width="320" />
 </p>
