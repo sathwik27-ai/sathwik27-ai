@@ -54,7 +54,7 @@ Full Stack Developer building **robust backend systems and responsive web applic
     <img src="https://img.shields.io/badge/CodeChef-1400+%20(2⭐)-5B4638?style=for-the-badge"/>
   </a>
   <a href="https://codeforces.com/profile/sathwik_27_06">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-1100+%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   
 </p>
