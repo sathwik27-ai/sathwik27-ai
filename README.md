@@ -26,7 +26,7 @@
 Full Stack Developer building **robust backend systems and responsive web applications**.Focused on designing efficient APIs, optimizing performance, and delivering seamless user experiences.
 
 * 🧠 300+ DSA Problems Solved. 
-* 📊 LeetCode: 1631 | CodeChef: 2⭐  
+* 📊 LeetCode: 1600+ | CodeChef: 2⭐  
 * ⚙️ Focused on Backend Development, APIs & Scalable Web Apps.  
 
 <p>
@@ -48,10 +48,10 @@ Full Stack Developer building **robust backend systems and responsive web applic
 <p align="center">
   
   <a href="https://leetcode.com/Sathwik-1234">
-    <img src="https://img.shields.io/badge/LeetCode-1631%20Rating-FFA116?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-1600+%20Rating-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="https://www.codechef.com/users/Sathwik_27_06">
-    <img src="https://img.shields.io/badge/CodeChef-1409%20(2⭐)-5B4638?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CodeChef-1400+%20(2⭐)-5B4638?style=for-the-badge"/>
   </a>
   <a href="https://codeforces.com/profile/sathwik_27_06">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
